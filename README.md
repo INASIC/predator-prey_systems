@@ -7,7 +7,7 @@ The Lotka-Volterra equations are a pair of first-order, nonlinear, differential 
 
 The equations are given as shown:
 
-![alt text](http://file.scirp.org/Html/2-1100253/ee820e7f-fb94-4d8f-8b8c-f1b30bbb08a3.jpg)
+![alt text](https://wikimedia.org/api/rest_v1/media/math/render/svg/79752d662d4760abcc84c6f0bb94d708f17ff442)
 
 Where:
 * x = population of prey
