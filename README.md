@@ -7,7 +7,16 @@ The Lotka-Volterra equations are a pair of first-order, nonlinear, differential 
 
 The equations are given as shown:
 
+![alt text](http://file.scirp.org/Html/2-1100253/ee820e7f-fb94-4d8f-8b8c-f1b30bbb08a3.jpg)
 
+Where:
+* x = population of prey
+* y = population of predators
+* t = time
+* \alpha   = birth rate of prey
+* \gamma  = death rate of predators
+* \beta = interaction term between predators and prey
+* \delta  interaction term between prey and predators
 
 ## Main assumptions of the model
 
