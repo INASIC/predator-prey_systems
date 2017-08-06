@@ -1,5 +1,5 @@
 # Predator-Prey Systems
-This repository contains an excel spreadsheet which contrasts the __Lotka-Volterra__ model for predator-prey systems to the __Leslie-Gower__ model.
+This repository contains an excel spreadsheet, and a Jupyter Notebook (IPython Notebook) which illustrates the __Lotka-Volterra__ model for predator-prey systems.
 
 ## Lotka-Volterra Equations
 
@@ -27,8 +27,3 @@ The Lotka-Volterra model has several assumptions, which decrease the accuracy of
 * The rate of change of populations are proportional to their size.
 * The environment does not change in favour of one species, and genetic adaptation of offspring is negligible.
 * Predators have limitless appetite.
-
-## Leslie-Gower Equations
-
-The Leslie-Gower equtions are a modified version of the Lotka-Volterra equations, which similarly describe the dynamics of a predator-prey system. The equation
-
